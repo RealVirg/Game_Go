@@ -1,0 +1,7 @@
+Player vs Player: test1(40) test2(7.5)
+Player vs bot(easy): test(black) Win 3.5
+Player vs bot(easy): test(black) Win 41.5
+Player vs Player: test1(13) test2(8.5)
+Player vs bot(easy): test(black) Win 5.5
+Player vs bot(very easy): test(white) Win 15.5
+Player vs Player: test1(24) test2(59.5)
